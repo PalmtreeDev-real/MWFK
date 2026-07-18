@@ -87,4 +87,4 @@ Licensed under the [Apache License 2.0](LICENSE).
 
 ## Device of Creation
 
-Chromebook 3100 2 in 1 by Dell with Ubuntu Mate 25.10
+This project was built entirely on a **Dell Chromebook 3100 2-in-1** running **Ubuntu MATE 25.10**. No Windows machines were harmed in the making of this tool — just a humble Chromebook running Linux, finding Windows keys from the other side.
