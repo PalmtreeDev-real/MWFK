@@ -84,3 +84,7 @@ Made by [PalmtreeDev-real](https://github.com/PalmtreeDev-real) on GitHub / atla
 ## License
 
 Licensed under the [Apache License 2.0](LICENSE).
+
+## Device of Creation
+
+Chromebook 3100 2 in 1 by Dell with Ubuntu Mate 25.10
