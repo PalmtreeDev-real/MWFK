@@ -1,6 +1,6 @@
 # MWFK - Microsoft Windows Key Finder
 
-A CLI tool to look up **KMS client setup keys** for Windows and Office versions.
+A CLI tool to look up **KMS client setup keys** for Windows and Office versions. (Made on a chromebook btw)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Cross--platform-green)
