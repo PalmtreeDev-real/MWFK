@@ -4,7 +4,7 @@ A CLI tool to look up **KMS client setup keys** for Windows and Office versions.
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Cross--platform-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue)
 
 ## Features
 
@@ -80,3 +80,7 @@ These are **KMS client setup keys** (also known as Generic Volume License Keys o
 ## Credits
 
 Made by [PalmtreeDev-real](https://github.com/PalmtreeDev-real) on GitHub / atlasdevmc on Discord
+
+## License
+
+Licensed under the [Apache License 2.0](LICENSE).
