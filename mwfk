@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# MWFK - Microsoft Windows Key Finder
+# Run: ./mwfk
+exec python3 "$(dirname "$(readlink -f "$0")")/mwfk.py" "$@"
